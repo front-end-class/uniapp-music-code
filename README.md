@@ -2,4 +2,4 @@
 
 《Uniapp从入门到进阶》章节代码和完整代码
 
-![](./pic.jpeg 300*300)
+<img src="./pic.jpeg" width="50%" height="50%">
